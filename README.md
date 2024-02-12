@@ -1,4 +1,4 @@
-# first_app(Display Your Image)
+# Display Your Image
 
 A new Flutter project.
 
